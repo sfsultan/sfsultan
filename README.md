@@ -1,7 +1,7 @@
 ## Hi, I'm Fahd 👋
 ---
 
-### I'm a Full-Stack Developer based in Pakistan.
+### I'm a Backend Developer based in Pakistan. (with some frontend experience sprinkled on top) 
 
 #### 👀 Working with: 
 
