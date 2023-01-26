@@ -3,18 +3,19 @@
 
 ### I'm a Backend Developer based in Pakistan. (with some frontend experience sprinkled on top) 
 
-#### 👀 Working with: 
+#### 👀 Currently Working with: 
 
 - Python
 - Django
-- Gatsby
+- Cassandra
+- Kafka
 - PostgreSQL
 - Websockets
 - REST APIs
 - Celery
 - Selenium
-- Ant Design
 
+- Gatsby
 
 #### About Me:
 
