@@ -22,7 +22,7 @@
 - 💬 Ping me about: **web design**, **social media**, **mentorship**, **spacex**, **games**
 - 💞️ I’m looking to collaborate on anything python.
 - 💜 Interests: Traveling, Cryptocurrency Enthusiast, Foodie, SciFi Fan
-- 😄 Passionate about accessibility and eGovernance that works for everyone
+- 😄 Passionate about public accessibility and eGovernance.
 
 
 #### Find me around the web 🌎:
