@@ -21,7 +21,7 @@
 - 🌱 Learning more about and studying: **Open Source, React, Algorithms, Neural Networks, Machine Learning, OpenCV**
 - 💬 Ping me about: **web design**, **social media**, **mentorship**, **spacex**, **games**
 - 💞️ I’m looking to collaborate on anything python.
-- 💜 Interests: Traveling, Cryptocurrency Enthusiast, Foodie, SciFi Fan
+- 💜 Interests: Traveling, CG, Food, SciFi
 - 😄 Passionate about public accessibility and eGovernance.
 
 
@@ -31,5 +31,5 @@
 
 
 #### Contact Me:
-- 📫 How to reach me sfsultan@gmail.com
+- 📫 Email me at sfsultan@gmail.com
 
