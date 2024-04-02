@@ -28,7 +28,6 @@
 
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/fahd-sultan-16121043/">LinkedIn</a>
-- 🌐 Teaching stuff on my Youtube Channel <a href="https://www.youtube.com/channel/UCdwgYqTa2kUkkqwRvUlBXdw">Sekho</a>
 
 
 #### Contact Me:
