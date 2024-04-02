@@ -15,7 +15,7 @@
 - Celery
 - Selenium
 
-- Gatsby
+- NextJS
 
 #### About Me:
 
